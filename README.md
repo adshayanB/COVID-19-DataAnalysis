@@ -11,7 +11,7 @@ Dashboard also consits of a machine learning model that predicts and plots numbe
 Used Facebook's Prophet to forecast growth using John Hopkins time series data.
 
 # To view the dashboard on your local machine:
--Clone the Repo and install the required libraries.\
+Clone the Repo and install the required libraries.\
 Then run voila COVID-19 Dashboard.ipynb --strip_sources =True --theme=dark in your terminal.
 
 
