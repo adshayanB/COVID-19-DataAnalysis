@@ -9,8 +9,16 @@ This project is broken into three parts:<br/>
 Frameworks/Technologies Used: Pandas, NumPy, Prophet, Matplotlib, Plotly, Viola
       
 
-# Data 
-This Dashboard uses John Hopkins University Covid-19 data (updated Daily) which can be found here:
+## COVID-19 Data Analysis 
+Used Pandas, Plotly and Matplotlib to anaylze Canadian and Worldwide Covid Data <br/><br/>
+
+Key Features:<br/>
+       &nbsp;&nbsp;&nbsp;  1. Confrimed Cases in Canada<br/>
+       &nbsp;&nbsp;&nbsp;  2. Confirmed Cases by  Province/Territory<br/>
+       &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
+      Other Features Include - List of Total Cases Per Province/Territory,  Confrimed Cases Per Province/Territory, Interactive World Map of Cases Per 1M people
+   
+      
 
 
 # COVID-19 Dashboard
