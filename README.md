@@ -1,9 +1,16 @@
-# COVID-19-DataAnalysis
-A Data Analysis Project of COVID-19 Data
+# COVID-19 Analysis Project
+This project harnesses John Hopkins Univeristy Covid-19 Data (Updated Daily).
+Data can be found here:
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
+This project is broken into three parts:<br/>
+       &nbsp;&nbsp;&nbsp;  1. All Time Stats<br/>
+       &nbsp;&nbsp;&nbsp;  2. COVID -19 Dashboard<br/>
+       &nbsp;&nbsp;&nbsp;  3. Team Anaylsis<br/>
 
 # Data 
 This Dashboard uses John Hopkins University Covid-19 data (updated Daily) which can be found here:
-https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
 
 # COVID-19 Dashboard
 This dashboard consists of interactive plots where you can query for various country data.\
