@@ -7,10 +7,9 @@ This project is broken into three parts:<br/>
        &nbsp;&nbsp;&nbsp;  2. COVID -19 Dashboard<br/>
        &nbsp;&nbsp;&nbsp;  3. Cases/Deaths Prediction (Machine Learning)<br/><br/>
 Frameworks/Technologies Used: Pandas, NumPy, Prophet, Matplotlib, Plotly, Viola
-      
-
+     
 ## COVID-19 Data Analysis 
-Used Pandas, Plotly and Matplotlib to anaylze Canadian and Worldwide Covid Data <br/><br/>
+Used Pandas, Plotly and Matplotlib to anaylze Canadian and Worldwide Covid Data <br/>
 
 Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  1. Confrimed Cases in Canada<br/>
