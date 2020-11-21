@@ -2,7 +2,7 @@
 This project harnesses John Hopkins Univeristy Covid-19 Data (Updated Daily).<br/>
 Data can be found here:
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
-<br/>Other data used in this project are saved as csv and stored in the repo <br/>
+<br/>Other data used in this project are saved as csv and stored in the repo <br/><br/>
 This project is broken into three parts:<br/>
        &nbsp;&nbsp;&nbsp;  1. All Time Stats<br/>
        &nbsp;&nbsp;&nbsp;  2. COVID -19 Dashboard<br/>
