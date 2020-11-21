@@ -16,13 +16,13 @@ Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  2. Confirmed Cases by  Province/Territory<br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
       Other Features Include - List of Total Cases Per Province/Territory,  Confrimed Cases Per Province/Territory, Interactive World Map of Cases Per 1M people
-   
       
 
 
 # COVID-19 Dashboard
-This dashboard consists of interactive plots where you can query for various country data.\
-Dashboard also consists of a machine learning model that predicts and plots number of cases and deaths over the next two weeks.\
+This dashboard consists of interactive plots where you can query for various country data built using 
+
+Dashboard also consists of a machine learning model that predicts and plots number of cases and deaths over the next two weeks.
 Used Facebook's Prophet to forecast growth using Johns Hopkins time series data.
 
 # To view the dashboard on your local machine:
