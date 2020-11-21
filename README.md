@@ -5,7 +5,7 @@ Other data sources used in this project are saved as csv and stored in the repo 
 This project is broken into three parts:<br/>
        &nbsp;&nbsp;&nbsp;  1. COVID -19 Data Analysis<br/>
        &nbsp;&nbsp;&nbsp;  2. COVID -19 Dashboard<br/>
-       &nbsp;&nbsp;&nbsp;  3. Cases/Deaths Prediction (Machine Learning)<br/>
+       &nbsp;&nbsp;&nbsp;  3. Cases/Deaths Prediction (Machine Learning)<br/><br/>
 Frameworks/Technologies Used: Pandas, NumPy, Prophet, Matplotlib, Plotly, Viola
       
 
