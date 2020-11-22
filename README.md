@@ -26,9 +26,7 @@ Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  2. Interactive Graph that plots cases vs deaths for desired country<br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
         &nbsp;&nbsp;&nbsp;  4. A machine learning model that predicts future cases & deaths and subsequently plots the predicted data <br/>
-       
-       
-      Other Features Include - List of Total Cases Per Province/Territory,  Confrimed Cases Per Province/Territory, Interactive World Map of Cases Per 1M people
+      
 Dashboard also consists of a machine learning model that predicts and plots number of cases and deaths over the next two weeks.
 Used Facebook's Prophet to forecast growth using Johns Hopkins time series data.
 
