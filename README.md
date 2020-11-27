@@ -21,16 +21,16 @@ Key Features:<br/>
 
 ## COVID-19 Dashboard
 This dashboard consists of interactive plots where you can query for various country data built using Pandas, NumPy, Prophet, Follium, Plotly and Matplotlib<br/>
+Used Facebook's Prophet to forecast growth using Johns Hopkins time series data. <br/>
 Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  1. Interactive Graph that plots top n (an integer) worse hit country<br/>
        &nbsp;&nbsp;&nbsp;  2. Interactive Graph that plots cases vs deaths for desired country<br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
-        &nbsp;&nbsp;&nbsp;  4. A machine learning model that predicts future cases & deaths and subsequently plots the predicted data <br/>
+       &nbsp;&nbsp;&nbsp;  4. A machine learning model that predicts future cases & deaths and subsequently plots the predicted data <br/>
       
-Dashboard also consists of a machine learning model that predicts and plots number of cases and deaths over the next two weeks.
-Used Facebook's Prophet to forecast growth using Johns Hopkins time series data.
+
 
 # To view the dashboard on your local machine:
-Clone the Repo and install the required libraries.\
+Clone the Repo and install the required libraries.
 Then run voila COVID-19 Dashboard.ipynb --strip_sources =True --theme=dark in your terminal.
 
