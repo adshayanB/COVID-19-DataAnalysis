@@ -20,7 +20,7 @@ Key Features:<br/>
 
 
 ## COVID-19 Dashboard
-This dashboard consists of interactive plots where you can query for various country data built using Pandas, NumPy, Prophet, Follium, Plotly and Matplotlib<br/>
+This dashboard consists of interactive plots where you can query for various country data built using Pandas, NumPy, Prophet, Follium, Plotly and Matplotlib
 Used Facebook's Prophet to forecast growth using Johns Hopkins time series data. <br/>
 Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  1. Interactive Graph that plots top n (an integer) worse hit country<br/>
