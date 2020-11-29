@@ -31,6 +31,7 @@ Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  2. Interactive Graph that plots cases vs deaths for desired country<br/>
        <img src="https://media.giphy.com/media/6s6nJx2tkctMigrYlt/giphy.gif" width="480" height="270"/><br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
+       <img src="https://media.giphy.com/media/XHKFAaYNCzGfA0vH4X/giphy.gif" width="480" height="270"/><br/>
        &nbsp;&nbsp;&nbsp;  4. A machine learning model that predicts future cases & deaths and subsequently plots the predicted data <br/>
       
 
