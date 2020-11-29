@@ -18,8 +18,7 @@ Key Features:<br/>
          <img src="https://i.imgur.com/UGrURQA.png"><br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
        <img src="https://media.giphy.com/media/dcEkI5lfaUuPVguvcA/giphy.gif" width="480" height="270"/><br/>
-
-      Other Features Include - List of Total Cases Per Province/Territory,  Confrimed Cases Per Province/Territory, Interactive World Map of Cases Per 1M people
+Other Features Include - List of Total Cases Per Province/Territory,  Confrimed Cases Per Province/Territory, Interactive World Map of Cases Per 1M people
       
 
 
