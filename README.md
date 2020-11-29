@@ -30,7 +30,16 @@ Key Features:<br/>
       
 
 
-# To view the dashboard on your local machine:
-Clone the Repo and install the required libraries.
-Then run voila COVID-19 Dashboard.ipynb --strip_sources =True --theme=dark in your terminal.
+## Cloning the Repo <br/>
+Required Packages:<br/>
+          &nbsp;&nbsp;&nbsp;     1. Pandas <br/>
+          &nbsp;&nbsp;&nbsp;     2. NumPy <br/>
+             &nbsp;&nbsp;&nbsp; 3. Jupyter Notebook <br/>
+               &nbsp;&nbsp;&nbsp;   4. Jupyter Widgets <br/>
+               &nbsp;&nbsp;&nbsp;  5. Matplotlib<br/> 
+               &nbsp;&nbsp;&nbsp;   6. Plotly<br/> 
+               &nbsp;&nbsp;&nbsp;   7.Voila<br/>
+                &nbsp;&nbsp;&nbsp;   8.Prophet<br/>
+                <br/>After Installing the required packages simply use the terminal to query into the folder you cloned the repo in and run the command *jupyter notebook*
+<br/>To run the dashbaord run voila COVID-19 Dashboard.ipynb --strip_sources =True --theme=dark in your terminal.
 
