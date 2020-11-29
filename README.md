@@ -29,6 +29,7 @@ Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  1. Interactive Graph that plots top n (an integer) worse hit country<br/>
          <img src="https://media.giphy.com/media/7H4knlZSjFibHApvn5/giphy.gif" width="480" height="270"/><br/>
        &nbsp;&nbsp;&nbsp;  2. Interactive Graph that plots cases vs deaths for desired country<br/>
+       <img src="https://media.giphy.com/media/6s6nJx2tkctMigrYlt/giphy.gif" width="480" height="270"/><br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
        &nbsp;&nbsp;&nbsp;  4. A machine learning model that predicts future cases & deaths and subsequently plots the predicted data <br/>
       
