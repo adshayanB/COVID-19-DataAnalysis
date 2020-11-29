@@ -13,6 +13,7 @@ Used Pandas, Plotly and Matplotlib to anaylze Canadian and Worldwide Covid Data 
 
 Key Features:<br/>
        &nbsp;&nbsp;&nbsp;  1. Confrimed Cases in Canada<br/>
+        <img src="https://i.imgur.com/Fu69fff.png" width="480" height="270"/><br/>
        &nbsp;&nbsp;&nbsp;  2. Confirmed Cases by Province/Territory<br/>
        &nbsp;&nbsp;&nbsp;  3. Interactive World Map of Confirmed Cases <br/>
       Other Features Include - List of Total Cases Per Province/Territory,  Confrimed Cases Per Province/Territory, Interactive World Map of Cases Per 1M people
